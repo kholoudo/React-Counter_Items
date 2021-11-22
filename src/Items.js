@@ -17,7 +17,7 @@ class ItemsList extends React.Component{
             
                 }
                this.style2={
-                    margin:"0.5em",لايلتن
+                    margin:"0.5em",
                     padding:"0.5em"
                 }
             
